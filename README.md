@@ -4,8 +4,8 @@
 
 📖 Faço Tecnólogo em Análise e Desenvolvimento de Sistemas;
 
-💻 Tenho habilidades com Lógica de programação, Python e SQL.
+💻 Tenho habilidades com Lógica de programação, Python e SQL;
 
-📃 Estou estudando Java e rede de computadores.
+📃 Estou estudando Java e rede de computadores;
 
 📌 Quer saber mais sobre mim? acesse meu [Linkedin](https://www.linkedin.com/in/luiz-santos-a754232b9/).
