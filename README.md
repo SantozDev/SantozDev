@@ -1,6 +1,6 @@
 ## Olá eu sou Luiz Santos
 
-👋 sou brasileiro e tenho 21 anos; 
+👋 Sou brasileiro e tenho 21 anos; 
 
 📖 Faço Tecnólogo em Análise e Desenvolvimento de Sistemas;
 
