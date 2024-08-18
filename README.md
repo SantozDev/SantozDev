@@ -1,4 +1,4 @@
-## Olá eu sou Luiz Santos
+## Olá, eu sou Luiz Santos
 
 👋 Sou brasileiro e tenho 21 anos; 
 
