@@ -4,7 +4,7 @@
 
 🛡️Sou AWS Certified Cloud Practitioner;
 
-📖 Sou formando em Tecnólogo em Análise e Desenvolvimento de Sistemas na Uninassau;
+📖 Sou formando Tecnólogo em Análise e Desenvolvimento de Sistemas na Uninassau;
 
 📔 Cursando Técnico em Redes de Computadores na ETEMAC;
 
