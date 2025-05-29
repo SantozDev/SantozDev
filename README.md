@@ -1,11 +1,19 @@
 ## Olá, eu sou Luiz Santos
 
-👋 Sou brasileiro e tenho 21 anos; 
+👋 Sou brasileiro e tenho 22 anos; 
 
-📖 Faço Tecnólogo em Análise e Desenvolvimento de Sistemas;
+🛡️Sou AWS Certified Cloud Practitioner;
 
-💻 Tenho habilidades com Lógica de programação, Python e SQL;
+📖 Sou formando em Tecnólogo em Análise e Desenvolvimento de Sistemas na Uninassau;
 
-📃 Estou estudando Java e rede de computadores;
+📔 Cursando Técnico em Redes de Computadores na ETEMAC;
 
-📌 Quer saber mais sobre mim? acesse meu [Linkedin](https://www.linkedin.com/in/luiz-santos-a754232b9/).
+💻 Tenho habilidades com Lógica de programação, Python, SQL, AWS;
+
+📚 Tenho conhecimentos de Redes de Computadores; Sistemas Operacionais Linux e Windows; Hardware; Cloud Computing; Suporte Técnico; e Desenvolvimento Back-end;
+
+📃 Estou estudando AWS e DevOps no momento;
+
+🧑‍💼 Busco uma oportunidade de Estágio/ Efetivo Júnior nas áreas de redes, devops, cloud e cybersecurity;
+
+📌 Quer saber mais sobre mim? acesse meu [Linkedin](https://www.linkedin.com/in/luiz-santos7/).
