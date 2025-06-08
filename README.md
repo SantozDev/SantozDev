@@ -34,7 +34,9 @@
 - **Com.Domínio Digital 4.0 (Instituto Aliança + UECE)** — POO, Python, Java, MySQL, Scrum e Kanban, Soft Skills
 
 🔗 **Portfólio de Projetos:**  
-- [Meu GitHub](https://github.com/SantozDev)  
+- [TCC Escola da Nuvem - Arquitetura de E-commerce na AWS](https://github.com/SantozDev/AWS-Re-Start)
+- [Tutoriais AWS](https://github.com/SantozDev/TutoriaisAWS)
+- [Repositório de Projetos em Java](https://github.com/SantozDev/JAVA)
 
 
 ---
