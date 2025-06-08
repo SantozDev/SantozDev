@@ -55,7 +55,7 @@
 
 - 📘 Pós-graduação em **Engenharia de Software** e **Segurança da Informação**  
 - 🔐 Atuação com foco em **DevSecOps**  
-- 🌍 Estudo de **Inglês técnico e fluente para carreira internacional**  
+- 🌍 Estudo de **Inglês técnico e fluente**  
 - 🏆 Novas certificações:  
   - AWS Developer Associate  
   - AWS Solutions Architect Associate  
