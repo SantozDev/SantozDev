@@ -22,7 +22,7 @@
 - 🎓 Tecnólogo em Análise e Desenvolvimento de Sistemas — *Uninassau* (3º período)  
 - 🧑‍🔧 Técnico em Redes de Computadores — *ETE Maximiano Accioly Campos* (1º módulo)  
 - 🖌️ Técnico em Design Gráfico — *ETE Miguel Batista*  
-- ☁️ **Certificação AWS Cloud Practitioner** — [Ver credencial](https://drive.google.com/file/d/1rKtpspf1tWt2RDUsjrG7WIZBkUv9CcmX/view?usp=sharing)
+- ☁️ **Certificação AWS Cloud Practitioner** — [Ver credencial](https://www.credly.com/badges/045fc725-230c-4e13-8518-b72d53df843a/public_url)
 
 ---
 
