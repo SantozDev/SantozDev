@@ -18,8 +18,8 @@
 
 ## 📚 Formação & Certificações
 
-- 🎓 Tecnólogo em Análise e Desenvolvimento de Sistemas — *Uninassau* (3º período)  
-- 🧑‍🔧 Técnico em Redes de Computadores — *ETE Maximiano Accioly Campos* (1º módulo)  
+- 🎓 Tecnólogo em Análise e Desenvolvimento de Sistemas — *Uninassau* (4º período)  
+- 🧑‍🔧 Técnico em Redes de Computadores — *ETE Maximiano Accioly Campos* (2º módulo)  
 - 🖌️ Técnico em Design Gráfico — *ETE Miguel Batista*  
 - ☁️ **Certificação AWS Cloud Practitioner** — [Ver credencial](https://www.credly.com/badges/045fc725-230c-4e13-8518-b72d53df843a/public_url)
 
