@@ -1,16 +1,15 @@
 # 👋 Olá, eu sou o Luiz Santos!
 
-🎓 Estudante de **Análise e Desenvolvimento de Sistemas** (Uninassau) e **Técnico em Redes de Computadores** (ETE Maximiano Accioly Campos). Também sou **Técnico em Design Gráfico** e apaixonado por tecnologia, com foco em desenvolvimento, computação em nuvem e segurança da informação.
+🎓 Estudante de **Análise e Desenvolvimento de Sistemas** (Uninassau) e **Técnico em Redes de Computadores** (ETE Maximiano Accioly Campos). Também sou **Técnico em Design Gráfico** e apaixonado por tecnologia, com foco em desenvolvimento, computação em nuvem e segurança de dados.
 
-🌐 Atualmente possuo a certificação **AWS Cloud Practitioner** e venho me aprofundando em tecnologias como **Java, Python, MySQL, Spring Boot, Docker, Git, Kubernetes**, além de metodologias ágeis como **Scrum e Kanban**.
-
+🌐 Atualmente possuo a certificação **AWS Cloud Practitioner**.
 ---
 
 ## 🚀 Tecnologias & Ferramentas
 
 - 💻 **Linguagens:** Java • Python • SQL
 - ☁️ **Cloud:** AWS (Cloud Practitioner Certified)
-- ⚙️ **Ferramentas:** • Git • GitHub • Docker • Kubernetes • Linux • Spring Boot
+- ⚙️ **Ferramentas:** • Git • GitHub • Linux
 - 🗃️ **Banco de Dados:** MySQL
 - 🎨 **Design:** Photoshop • Illustrator • CorelDraw
 - 🧰 **Office:** Word • Excel • PowerPoint • Outlook
@@ -28,7 +27,6 @@
 
 ## 📌 Cursos & Projetos
 
-- **Bootcamp Java and AI in Europe (DIO + Tonnie)** — Git, Java, Spring Boot, Docker, Kubernetes *(em andamento)* 
 - **Google IT Support (Coursera)** — Fundamentos, Redes e Sistemas Operacionais *(em andamento)*  
 - **AWS Re/Start (Escola da Nuvem + AWS)** — Preparação Cloud Practitioner  
 - **Com.Domínio Digital 4.0 (Instituto Aliança + UECE)** — POO, Python, Java, MySQL, Scrum e Kanban, Soft Skills
@@ -43,6 +41,12 @@
 
 ## 🛠️ Experiências
 
+### 👨‍💻 Estagiário de TI — Smile Tecnologia
+- Suporte Técnico/ Helpdesk
+- Solução de problemas de conectividade, hardware, impressoras, email e software
+- Criação e acompanhamento de chamados no GLPI
+- Monitoramento de ativos com Zabbix e Grafana
+
 ### 🎨 Designer Gráfico — Universidade da Impressão  
 - Atendimento ao cliente, criação de artes e materiais gráficos, social media  
 - Domínio em ferramentas de design e Microsoft Office
@@ -55,14 +59,14 @@
 
 ## 🎯 Planos Futuros
 
-- 📘 Pós-graduação em **Engenharia de Software** e **Segurança da Informação**  
-- 🔐 Atuação com foco em **DevSecOps**  
+- 📘 Pós-graduação em **Gestão de TI**, **Desenvolvimento** e **Segurança da Informação**  
+- 🔐 Atuação com foco em **Infraestrutura de TI**  
 - 🌍 Estudo de **Inglês técnico e fluente**  
 - 🏆 Novas certificações:  
   - AWS Developer Associate  
-  - AWS Solutions Architect Associate  
-  - AWS DevOps Engineer Professional  
-  - AWS Security Specialty  
+  - AWS Solutions Architect Associate
+  - ITIL V4
+  - Cobit  
 
 ---
 
