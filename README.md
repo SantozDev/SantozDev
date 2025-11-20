@@ -51,7 +51,7 @@
 - Atendimento ao cliente, criação de artes e materiais gráficos, social media  
 - Domínio em ferramentas de design e Microsoft Office
 
-### 🏥 Jovem Aprendiz Administrativo — Hospital Pelópidas da Silveira  
+### 🏥 Jovem Aprendiz Administrativo — Hospital Pelópidas Silveira  
 - Suporte logístico e atendimento interno no almoxarifado  
 - Controle de materiais hospitalares e apoio a colaboradores
 
